@@ -1,0 +1,36 @@
+{
+	"type": "test",
+	"taskId": "test-1847011385",
+	"source": {
+		"name": "codio-vm kill-all-daemonized",
+		"showName": true,
+		"instructions": "codio-vm kill-all-daemonized",
+		"command": "codio-vm kill-all-daemonized",
+		"timeoutSeconds": 40,
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 0,
+		"points": 20,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Advanced Code Test"
+				}
+			],
+			"files": [],
+			"opened": [
+				{
+					"type": "vm",
+					"panelNumber": 0,
+					"content": ""
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

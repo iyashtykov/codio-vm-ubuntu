@@ -1,0 +1,36 @@
+{
+	"type": "test",
+	"taskId": "test-530831529",
+	"source": {
+		"name": "codio-vm sync",
+		"showName": true,
+		"instructions": "run method codio-vm sync",
+		"command": "sh sync.sh",
+		"timeoutSeconds": 40,
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 0,
+		"points": 20,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Advanced Code Test"
+				}
+			],
+			"files": [],
+			"opened": [
+				{
+					"type": "vm",
+					"panelNumber": 0,
+					"content": ""
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

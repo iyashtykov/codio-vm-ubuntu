@@ -1,0 +1,19 @@
+{
+// Configure your Run and Preview buttons here.
+
+// Run button configuration
+  "commands": {
+        "upload and execute server with port 3344": "sh upload_file.sh",
+        "run server with port 3344": "sh run_server.sh",
+        "add permission to binary file": "codio-vm exec chmod +x /home/ubuntu/simple"
+  },
+
+// Preview button configuration
+  "preview": {
+        "Project Index (static)": "https://{{domain}}/{{index}}",
+        "Current File (static)": "https://{{domain}}/{{filepath}}",
+        "Box URL ping": "https://{{domain3355}}/ping",
+        "Box URL time": "https://{{domain3355}}/time",
+        "Box URL hello": "https://{{domain3355}}/hello/test"
+  }
+}

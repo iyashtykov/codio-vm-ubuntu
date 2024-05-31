@@ -1,0 +1,22 @@
+{
+	"id": "1a10842a-40c9-c158-26aa-2c27c5c78363",
+	"title": "codio-vm ubuntu",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		},
+		{
+			"path": "#vm: ",
+			"panel": 0,
+			"action": "open"
+		}
+	],
+	"path": [],
+	"contentType": "markdown",
+	"type": "page",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": "",
+	"layout": "2-panels-tree"
+}

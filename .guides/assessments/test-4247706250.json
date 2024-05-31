@@ -1,0 +1,35 @@
+{
+	"type": "test",
+	"taskId": "test-4247706250",
+	"source": {
+		"name": "codio-vm ubuntu",
+		"showName": true,
+		"instructions": "run codio-vm methods",
+		"command": "bash codio-vm-ubuntu.sh",
+		"timeoutSeconds": 60,
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 0,
+		"points": 100,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Advanced Code Test"
+				}
+			],
+			"files": [],
+			"opened": [
+				{
+					"type": "vm",
+					"content": ""
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

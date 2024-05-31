@@ -1,0 +1,35 @@
+{
+	"type": "test",
+	"taskId": "test-4017412740",
+	"source": {
+		"name": "codio-vm get-host-name",
+		"showName": true,
+		"instructions": "",
+		"command": "codio-vm get-host-name",
+		"timeoutSeconds": 40,
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 0,
+		"points": 20,
+		"arePartialPointsAllowed": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Advanced Code Test"
+				}
+			],
+			"files": [],
+			"opened": [
+				{
+					"type": "vm",
+					"content": ""
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}
