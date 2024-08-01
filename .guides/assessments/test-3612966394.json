@@ -1,0 +1,37 @@
+{
+	"type": "test",
+	"taskId": "test-3612966394",
+	"source": {
+		"name": "codio-vm sync one-way",
+		"showName": true,
+		"instructions": "run method codio-vm sync one-way",
+		"command": "sh sync_one_way.sh",
+		"timeoutSeconds": 40,
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 0,
+		"points": 20,
+		"arePartialPointsAllowed": false,
+		"useMaximumScore": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Advanced Code Test"
+				}
+			],
+			"files": [],
+			"opened": [
+				{
+					"type": "vm",
+					"panelNumber": 0,
+					"content": ""
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}
