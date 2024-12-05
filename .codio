@@ -5,7 +5,7 @@
   "commands": {
         "upload and execute server with port 3344": "sh upload_file.sh",
         "run server with port 3344": "sh run_server.sh",
-        "add permission to binary file": "codio-vm exec chmod +x /home/ubuntu/simple"
+        "add permission to binary file": "codio-tools exec chmod +x /home/ubuntu/simple"
   },
 
 // Preview button configuration

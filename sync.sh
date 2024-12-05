@@ -1,2 +1,2 @@
-codio-vm sync "/home/codio/workspace/file.sh" "/home/ubuntu/file.sh"
-codio-vm sync "/home/codio/workspace/folder" "/home/ubuntu/folder"
+codio-tools sync "/home/codio/workspace/file.sh" "/home/ubuntu/file.sh"
+codio-tools sync "/home/codio/workspace/folder" "/home/ubuntu/folder"

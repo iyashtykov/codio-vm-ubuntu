@@ -2,7 +2,7 @@
 	"type": "test",
 	"taskId": "test-1290272617",
 	"source": {
-		"name": "codio-vm port-forwarding 3355 3344",
+		"name": "codio-tools port-forwarding 3355 3344",
 		"showName": true,
 		"instructions": "",
 		"command": "sh port-forwarding.sh",
@@ -14,6 +14,7 @@
 		"maxAttemptsCount": 0,
 		"points": 20,
 		"arePartialPointsAllowed": false,
+		"useMaximumScore": false,
 		"metadata": {
 			"tags": [
 				{

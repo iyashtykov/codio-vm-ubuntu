@@ -2,10 +2,10 @@
 	"type": "test",
 	"taskId": "test-3278989852",
 	"source": {
-		"name": "codio-vm restart",
+		"name": "codio-tools restart",
 		"showName": true,
 		"instructions": "",
-		"command": "codio-vm restart",
+		"command": "codio-tools restart",
 		"timeoutSeconds": 120,
 		"guidance": "",
 		"showGuidanceAfterResponseOption": {

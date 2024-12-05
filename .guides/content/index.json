@@ -1,5 +1,5 @@
 {
-	"title": "codio-vm ubuntu",
+	"title": "codio-tools ubuntu",
 	"theme": "light",
 	"scripts": [],
 	"lexikonTopic": "",
@@ -13,7 +13,7 @@
 	"hideBackToDashboard": false,
 	"protectLayout": false,
 	"order": [
-		"codio-vm-ubuntu-1a10",
-		"codio-vm-terminal-f07e"
+		"codio-tools-ubuntu-1a10",
+		"codio-tools-terminal-f07e"
 	]
 }

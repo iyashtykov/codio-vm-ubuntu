@@ -1,11 +1,11 @@
 {
 	"type": "test",
-	"taskId": "test-875288530",
+	"taskId": "test-587045205",
 	"source": {
-		"name": "codio-vm stop",
+		"name": "codio-tools stop",
 		"showName": true,
 		"instructions": "",
-		"command": "codio-vm stop",
+		"command": "codio-tools stop",
 		"timeoutSeconds": 120,
 		"guidance": "",
 		"showGuidanceAfterResponseOption": {

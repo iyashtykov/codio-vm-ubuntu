@@ -2,10 +2,10 @@
 	"type": "test",
 	"taskId": "test-1366012939",
 	"source": {
-		"name": "codio-vm help",
+		"name": "codio-tools help",
 		"showName": true,
 		"instructions": "",
-		"command": "codio-vm help",
+		"command": "codio-tools help",
 		"timeoutSeconds": 40,
 		"guidance": "",
 		"showGuidanceAfterResponseOption": {

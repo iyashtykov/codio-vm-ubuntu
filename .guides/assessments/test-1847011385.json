@@ -2,10 +2,10 @@
 	"type": "test",
 	"taskId": "test-1847011385",
 	"source": {
-		"name": "codio-vm kill-all-daemonized",
+		"name": "codio-tools kill-all-daemonized",
 		"showName": true,
-		"instructions": "codio-vm kill-all-daemonized",
-		"command": "codio-vm kill-all-daemonized",
+		"instructions": "codio-tools kill-all-daemonized",
+		"command": "codio-tools kill-all-daemonized",
 		"timeoutSeconds": 40,
 		"guidance": "",
 		"showGuidanceAfterResponseOption": {
@@ -14,6 +14,7 @@
 		"maxAttemptsCount": 0,
 		"points": 20,
 		"arePartialPointsAllowed": false,
+		"useMaximumScore": false,
 		"metadata": {
 			"tags": [
 				{

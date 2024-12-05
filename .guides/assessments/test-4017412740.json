@@ -2,10 +2,10 @@
 	"type": "test",
 	"taskId": "test-4017412740",
 	"source": {
-		"name": "codio-vm get-host-name",
+		"name": "codio-tools get-host-name",
 		"showName": true,
 		"instructions": "",
-		"command": "codio-vm get-host-name",
+		"command": "codio-tools get-host-name",
 		"timeoutSeconds": 40,
 		"guidance": "",
 		"showGuidanceAfterResponseOption": {

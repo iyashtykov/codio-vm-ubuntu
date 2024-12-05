@@ -2,7 +2,7 @@
 	"type": "test",
 	"taskId": "test-421068651",
 	"source": {
-		"name": "codio-vm port-forwarding 3355 3344 and sync command",
+		"name": "codio-tools port-forwarding 3355 3344 and sync command",
 		"showName": true,
 		"instructions": "",
 		"command": "sh port-forwarding-and-command.sh",

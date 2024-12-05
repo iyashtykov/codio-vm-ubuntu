@@ -1,1 +1,1 @@
-codio-vm port-forwarding 3355 3344 "codio-vm sync /home/codio/workspace/folder /home/ubuntu/folder"
+codio-tools port-forwarding 3355 3344 "codio-tools sync /home/codio/workspace/folder /home/ubuntu/folder"

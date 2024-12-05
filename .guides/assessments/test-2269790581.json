@@ -2,10 +2,10 @@
 	"type": "test",
 	"taskId": "test-2269790581",
 	"source": {
-		"name": "codio-vm terminate",
+		"name": "codio-tools terminate",
 		"showName": true,
 		"instructions": "",
-		"command": "codio-vm terminate",
+		"command": "codio-tools terminate",
 		"timeoutSeconds": 120,
 		"guidance": "",
 		"showGuidanceAfterResponseOption": {

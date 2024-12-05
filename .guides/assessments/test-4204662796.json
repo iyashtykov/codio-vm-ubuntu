@@ -2,10 +2,10 @@
 	"type": "test",
 	"taskId": "test-4204662796",
 	"source": {
-		"name": "codio-vm start",
+		"name": "codio-tools start",
 		"showName": true,
 		"instructions": "",
-		"command": "codio-vm start",
+		"command": "codio-tools start",
 		"timeoutSeconds": 120,
 		"guidance": "",
 		"showGuidanceAfterResponseOption": {

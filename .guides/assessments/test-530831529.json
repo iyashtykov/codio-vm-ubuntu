@@ -2,9 +2,9 @@
 	"type": "test",
 	"taskId": "test-530831529",
 	"source": {
-		"name": "codio-vm sync",
+		"name": "codio-tools sync",
 		"showName": true,
-		"instructions": "run method codio-vm sync",
+		"instructions": "run method codio-tools sync",
 		"command": "sh sync.sh",
 		"timeoutSeconds": 40,
 		"guidance": "",

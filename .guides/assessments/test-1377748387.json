@@ -2,10 +2,10 @@
 	"type": "test",
 	"taskId": "test-1377748387",
 	"source": {
-		"name": "codio-vm get-ip",
+		"name": "codio-tools get-ip",
 		"showName": true,
 		"instructions": "",
-		"command": "codio-vm get-ip",
+		"command": "codio-tools get-ip",
 		"timeoutSeconds": 40,
 		"guidance": "",
 		"showGuidanceAfterResponseOption": {

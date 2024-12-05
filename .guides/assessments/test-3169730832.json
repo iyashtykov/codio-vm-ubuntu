@@ -2,10 +2,10 @@
 	"type": "test",
 	"taskId": "test-3169730832",
 	"source": {
-		"name": "codio-vm status",
+		"name": "codio-tools status",
 		"showName": true,
 		"instructions": "",
-		"command": "codio-vm status",
+		"command": "codio-tools status",
 		"timeoutSeconds": 120,
 		"guidance": "",
 		"showGuidanceAfterResponseOption": {

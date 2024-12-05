@@ -2,9 +2,9 @@
 	"type": "test",
 	"taskId": "test-3612966394",
 	"source": {
-		"name": "codio-vm sync one-way",
+		"name": "codio-tools sync one-way",
 		"showName": true,
-		"instructions": "run method codio-vm sync one-way",
+		"instructions": "run method codio-tools sync one-way",
 		"command": "sh sync_one_way.sh",
 		"timeoutSeconds": 40,
 		"guidance": "",

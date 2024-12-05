@@ -2,10 +2,10 @@
 	"type": "test",
 	"taskId": "test-4247706250",
 	"source": {
-		"name": "codio-vm ubuntu",
+		"name": "codio-tools ubuntu",
 		"showName": true,
-		"instructions": "run codio-vm methods",
-		"command": "bash codio-vm-ubuntu.sh",
+		"instructions": "run codio-tools methods",
+		"command": "bash codio-tools-ubuntu.sh",
 		"timeoutSeconds": 60,
 		"guidance": "",
 		"showGuidanceAfterResponseOption": {
